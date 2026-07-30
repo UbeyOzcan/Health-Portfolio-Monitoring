@@ -20,7 +20,6 @@ st.markdown("- ***Observed Profitability*** : Past Loss Ratio and Combined Ratio
 st.markdown("- ***Risk Indicator*** : Evolution of Claim Frequency, Severity and Risk Premium by Accident Year, Product and Segment")
 st.markdown("- ***Pricing Balance*** : Gives you information about the Pricing Adequacy")
 st.markdown("- ***Macroeconomie*** : Inflation situation, Medical Index and Consumer Price Index monitoring.")
-st.markdown("- ***IBNR*** : Evolution of IBNR calculated by Reserving that should be included in Pricing")
 
 
 st.sidebar.image("Alan-logo-green.svg")
