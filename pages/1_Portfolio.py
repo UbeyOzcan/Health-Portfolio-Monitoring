@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.title("Portfolio")
-
+st.sidebar.image("Alan-logo-green.svg")
 st.write("This section should contains information about the portfolio")
 st.write("Key Indicators are : ")
 st.markdown("- GWP : Gross Written Premium indicate the total volume of Premium underwritten by Month."

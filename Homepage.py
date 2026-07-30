@@ -18,6 +18,9 @@ st.markdown("The Application is made for every Alaners that would like to know l
 st.markdown("- ***Portfolio*** : Information about Gross Written Premium, Number of Policy, Number of insured people and their evolution")
 st.markdown("- ***Observed Profitability*** : Past Loss Ratio and Combined Ratio by Accident Year, Product and Segment")
 st.markdown("- ***Risk Indicator*** : Evolution of Claim Frequency, Severity and Risk Premium by Accident Year, Product and Segment")
-st.markdown("- ***Pricing Balance*** : Gives you information about the portfolio if it is overpriced, underpriced and correctly priced")
-st.markdown("- ***Macroeconomie*** : Inflation situation, Medical Index and Consumer Price Index monitoring and Projection")
+st.markdown("- ***Pricing Balance*** : Gives you information about the Pricing Adequacy")
+st.markdown("- ***Macroeconomie*** : Inflation situation, Medical Index and Consumer Price Index monitoring.")
 st.markdown("- ***IBNR*** : Evolution of IBNR calculated by Reserving that should be included in Pricing")
+
+
+st.sidebar.image("Alan-logo-green.svg")

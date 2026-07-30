@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.title("Observed Profitability")
-
+st.sidebar.image("Alan-logo-green.svg")
 st.write("This section should contains information about profitability")
 st.write("Key Indicators are : ")
 
