@@ -7,3 +7,9 @@ requires-python = ">=3.13"
 dependencies = [
     "streamlit>=1.60.0",
 ]
+[tool.poetry]
+name = "health-portfolio-monitoring"
+version = "0.1.0"
+description = ""
+authors = ["..."]
+package-mode = false
